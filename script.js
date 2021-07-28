@@ -22,5 +22,5 @@ const myFunction = (x, y) => x + y
 const addFive = a => a + 5
 
 //Deel E
-createObject = () =>"gereeting: 'hoi'"
+createObject = () => "gereeting: 'hoi'"
 console.log(createObject());
